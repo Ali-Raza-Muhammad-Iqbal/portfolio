@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://Ali-Raza-SE.github.io/portfolio/sitemap.xml
+Sitemap: https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/sitemap.xml

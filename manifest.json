@@ -1,0 +1,13 @@
+{
+  "name": "Ali Raza — Software Engineer",
+  "short_name": "Ali Raza",
+  "description": "Portfolio of Ali Raza, Software Engineer & Java Backend Developer.",
+  "start_url": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "icons": [
+    { "src": "res/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "res/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
