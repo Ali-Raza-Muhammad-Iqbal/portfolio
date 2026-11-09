@@ -13,14 +13,19 @@
        HOMEPAGE — Primary Landing Page
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/</loc>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://Ali-Raza-SE.github.io/portfolio/preview.png</image:loc>
+      <image:loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/res/preview.png</image:loc>
       <image:title>Ali Raza — Software Engineer | Java Backend Developer</image:title>
       <image:caption>Portfolio of Ali Raza, Software Engineer specializing in Java, Spring Boot, REST APIs, and Microservices.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/res/Ali-Raza.png</image:loc>
+      <image:title>Ali Raza — Profile Photo</image:title>
+      <image:caption>Ali Raza, Software Engineer and Java Backend Developer.</image:caption>
     </image:image>
   </url>
 
@@ -28,19 +33,19 @@
        ABOUT / BIO
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/#about</loc>
-    <lastmod>2026-10-15</lastmod>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#about</loc>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <!-- ============================================================
-       PROJECTS / PORTFOLIO SHOWCASE
+       EXPERIENCE / RESUME
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/#projects</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#experience</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
@@ -48,18 +53,48 @@
        SKILLS / TECH STACK
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/#skills</loc>
-    <lastmod>2026-10-15</lastmod>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#skills</loc>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- ============================================================
-       EXPERIENCE / RESUME
+       PROJECTS / PORTFOLIO SHOWCASE
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/#experience</loc>
-    <lastmod>2026-10-15</lastmod>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#projects</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ============================================================
+       TECHNICAL WRITING
+       ============================================================ -->
+  <url>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#writing</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ============================================================
+       CERTIFICATIONS
+       ============================================================ -->
+  <url>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#certifications</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ============================================================
+       SERVICES
+       ============================================================ -->
+  <url>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#services</loc>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,20 +103,10 @@
        CONTACT
        ============================================================ -->
   <url>
-    <loc>https://Ali-Raza-SE.github.io/portfolio/#contact</loc>
-    <lastmod>2026-10-15</lastmod>
+    <loc>https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio/#contact</loc>
+    <lastmod>2025-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
-  </url>
-
-  <!-- ============================================================
-       GITHUB PROFILE (cross-linked for entity recognition)
-       ============================================================ -->
-  <url>
-    <loc>https://github.com/Ali-Raza-SE</loc>
-    <lastmod>2026-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
 
 </urlset>
