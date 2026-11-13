@@ -1,153 +1,134 @@
+
 <!--
 =====================================================================
-  SEO METADATA — HIDDEN FOR CRAWLERS & SEARCH ENGINES
+  SEO METADATA — CRAWLER & SEARCH ENGINE READABLE
 =====================================================================
-  TITLE:       Ali Raza Muhammad Iqbal — Software Engineer | Backend Developer | Java Spring Boot Engineer | Computer Science Teacher
-  DESCRIPTION: Official GitHub Portfolio of Ali Raza Muhammad Iqbal (also known as Ali Raza, Ali Raza Iqbal, Ali, Raza) —
-               Software Engineer, Backend Developer, Software Developer, and Computer Science Teacher/Tutor/Educator
-               specializing in Java, Spring Boot, REST APIs, Microservices, MySQL, PHP, and scalable backend infrastructure.
-  KEYWORDS:    Ali Raza, Ali Raza Muhammad Iqbal, Ali Raza Iqbal, Ali, Raza, Ali Raza Software Engineer,
-               Ali Raza Backend Developer, Ali Raza Java Developer, Ali Raza Spring Boot Developer,
-               Software Engineer, Backend Developer, Software Developer, Java Developer, Spring Boot Developer,
-               REST API Developer, Microservices Engineer, Java Backend Engineer, Pakistan Developer,
-               Pakistani Software Engineer, SQL Developer, MySQL Developer, PHP Developer, Firebase Developer,
-               Systems Architecture, Clean Code, OOP, DSA, System Design, Full Stack Developer,
-               Enterprise Software, Hibernate, Spring Data JPA, JDBC, Spring Core, Spring MVC,
-               Computer Science Lecturer, Computer Science Teacher, CS Tutor, Programming Tutor,
-               API Architect, Backend Architect, Microservices Architect, Software Engineering Portfolio,
-               Java Portfolio, Spring Boot Portfolio, GitHub Portfolio, Hire Java Developer,
-               Hire Backend Developer Pakistan, Freelance Java Developer, Remote Backend Engineer,
-               Object Oriented Programming, Data Structures and Algorithms, Database Management Systems,
-               SDLC, SOLID Principles, Clean Architecture, Design Patterns, RESTful Services,
-               Web Services, JSON, Maven, Git, GitHub, IntelliJ IDEA, Eclipse, Postman, Swagger,
-               Agile, Scrum, CI/CD, Docker Basics, Linux Basics, Apache Tomcat, WildFly
-  AUTHOR:      Ali Raza Muhammad Iqbal
-  ROBOTS:      index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
-  LANGUAGE:    English
-  CANONICAL:   https://github.com/Ali-Raza-Muhammad-Iqbal
+  TITLE:        Ali Raza — Software Engineer | Java Backend Developer | Spring Boot Engineer
+  DESCRIPTION:  Official GitHub profile of Ali Raza (Ali Raza Muhammad Iqbal) — Software
+                Engineer specializing in Java, Spring Boot, REST APIs, Microservices,
+                MySQL, and scalable backend infrastructure. Portfolio & projects.
+  KEYWORDS:     Ali Raza, Ali Raza Muhammad Iqbal, Ali Raza Software Engineer,
+                Java Developer, Java Backend Developer, Spring Boot Developer,
+                Backend Engineer, REST API Developer, Microservices Engineer,
+                Java Developer Pakistan, Pakistan Software Engineer,
+                MySQL Developer, PHP Developer, System Design, Clean Code,
+                OOP, DSA, Hibernate, Spring Data JPA, JDBC, Firebase,
+                Full Stack Developer, Enterprise Software Engineer,
+                Computer Science Lecturer, API Architect, Backend Developer Portfolio
+  AUTHOR:       Ali Raza (Ali Raza Muhammad Iqbal)
+  ROBOTS:       index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  LANGUAGE:     English
+  GEOGRAPHY:    Pakistan (PK) — Available Worldwide (Remote)
+  CANONICAL:    https://github.com/Ali-Raza-SE
+  PORTFOLIO:    https://Ali-Raza-SE.github.io/portfolio/
+  LINKEDIN:     https://www.linkedin.com/in/ali-raza-software-engineer1
+  EMAIL:        Mr_Ali_Raza@yahoo.com
+  LAST-UPDATED: 2026-10-15
 =====================================================================
 -->
 
-<!-- OPEN GRAPH / SOCIAL PREVIEW METADATA (crawler-readable) -->
+<!-- OPEN GRAPH / TWITTER CARD METADATA -->
 <!--
-  og:type        = profile
-  og:title       = Ali Raza Muhammad Iqbal — Java Backend Engineer | Spring Boot Developer | CS Teacher
-  og:description = Software Engineer building scalable Java/Spring Boot backends, REST APIs,
-                   enterprise-grade microservices, and mentoring future developers.
-  og:url         = https://github.com/Ali-Raza-Muhammad-Iqbal
-  og:site_name   = GitHub
-  og:image       = https://github.com/Ali-Raza-Muhammad-Iqbal.png
-  twitter:card   = summary_large_image
-  twitter:site   = @Ali_Raza_Iqbal
-  twitter:title  = Ali Raza Muhammad Iqbal — Software Engineer | Backend Developer
-  twitter:description = Java • Spring Boot • REST APIs • Microservices • MySQL • PHP • CS Educator
+  og:type             = profile
+  og:title            = Ali Raza — Java Backend Engineer | Spring Boot Developer
+  og:description      = Software Engineer building scalable Java/Spring Boot backends,
+                        REST APIs, and enterprise-grade microservices. Portfolio inside.
+  og:url              = https://github.com/Ali-Raza-SE
+  og:image            = https://Ali-Raza-SE.github.io/portfolio/preview.png
+  og:site_name        = GitHub
+  profile:first_name  = Ali
+  profile:last_name   = Raza
+  twitter:card        = summary_large_image
+  twitter:title       = Ali Raza — Software Engineer | Java Backend Developer
+  twitter:description = Java • Spring Boot • REST APIs • Microservices • MySQL • System Design
+  twitter:image       = https://Ali-Raza-SE.github.io/portfolio/preview.png
 -->
 
-<!-- JSON-LD STRUCTURED DATA FOR GOOGLE RICH RESULTS -->
+<!-- JSON-LD STRUCTURED DATA — ENABLES GOOGLE KNOWLEDGE PANEL -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Ali Raza Muhammad Iqbal",
-  "alternateName": ["Ali Raza", "Ali Raza Iqbal", "Ali", "Raza"],
-  "jobTitle": ["Software Engineer", "Backend Developer", "Software Developer", "Computer Science Teacher"],
-  "description": "Software Engineer, Backend Developer, Software Developer, and Computer Science Teacher specializing in Java, Spring Boot, REST APIs, Microservices, MySQL, PHP, and scalable backend infrastructure.",
-  "url": "https://github.com/Ali-Raza-Muhammad-Iqbal",
-  "image": "https://github.com/Ali-Raza-Muhammad-Iqbal.png",
-  "sameAs": [
-    "https://github.com/Ali-Raza-Muhammad-Iqbal",
-    "https://www.linkedin.com/in/ali-raza-muhammad-iqbal",
-    "https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio",
-    "https://www.facebook.com/AliRazaMuhammadIqbal1",
-    "https://www.instagram.com/ali_raza_muhammad_iqbal",
-    "https://x.com/Ali_Raza_Iqbal",
-    "https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal",
-    "https://www.tiktok.com/@ali_raza_muhammad_iqbal"
-  ],
-  "email": "mailto:Mr_Ali_Raza@yahoo.com",
-  "knowsAbout": [
-    "Java", "Spring Boot", "Spring Core", "Spring Data JPA", "Spring MVC", "Hibernate",
-    "REST APIs", "RESTful Web Services", "Microservices", "System Design", "Clean Architecture",
-    "MySQL", "SQL", "PHP", "Firebase", "Database Management Systems", "Stored Procedures",
-    "Object-Oriented Programming", "Data Structures and Algorithms", "SOLID Principles",
-    "Design Patterns", "SDLC", "Agile", "Scrum", "CI/CD", "Git", "GitHub", "Maven",
-    "Postman", "Swagger", "Docker Basics", "Linux Basics", "Apache Tomcat",
-    "HTML5", "CSS3", "JavaScript", "JSON", "Web Services",
-    "Computer Science Education", "Programming Tutoring", "Software Engineering Mentorship"
-  ],
-  "alumniOf": {
-    "@type": "CollegeOrUniversity",
-    "name": "Virtual University of Pakistan"
-  },
-  "nationality": {
-    "@type": "Country",
-    "name": "Pakistan"
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Ali Raza",
+    "alternateName": "Ali Raza Muhammad Iqbal",
+    "jobTitle": "Software Engineer",
+    "description": "Software Engineer specializing in Java, Spring Boot, REST APIs, Microservices, and scalable backend infrastructure.",
+    "url": "https://github.com/Ali-Raza-SE",
+    "image": "https://Ali-Raza-SE.github.io/portfolio/preview.png",
+    "email": "mailto:Mr_Ali_Raza@yahoo.com",
+    "sameAs": [
+      "https://github.com/Ali-Raza-SE",
+      "https://www.linkedin.com/in/ali-raza-software-engineer1",
+      "https://Ali-Raza-SE.github.io/portfolio/"
+    ],
+    "knowsAbout": [
+      "Java", "Spring Boot", "Spring Core", "Spring Data JPA", "Hibernate", "JDBC",
+      "REST API Development", "Microservices Architecture", "System Design",
+      "MySQL", "Database Schema Design", "Stored Procedures",
+      "PHP", "Firebase", "HTML5", "CSS3", "JavaScript",
+      "Object-Oriented Programming", "Data Structures and Algorithms",
+      "Database Management Systems", "SDLC", "SOLID Principles", "Clean Code"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Software Engineering & Computer Science Education"
+    },
+    "nationality": {
+      "@type": "Country",
+      "name": "Pakistan"
+    }
   }
 }
 </script>
 
-<!-- =====================================================================
-  MAIN SEO CONTENT BEGINS
-===================================================================== -->
-
-<h1 align="center">Hi there, I'm Ali Raza Muhammad Iqbal 👋</h1>
+<h1 align="center">Hi 👋, I'm Ali Raza</h1>
 
 <h3 align="center">
-  <strong>Software Engineer</strong> • <strong>Backend Developer</strong> • <strong>Software Developer</strong> • <strong>Computer Science Teacher</strong>
+  <strong>Software Engineer</strong> · <strong>Java Backend Developer</strong> · <strong>Spring Boot Engineer</strong>
 </h3>
 
 <p align="center">
-  <em>Building scalable, resilient, enterprise-grade backend systems with Java & Spring Boot — and mentoring the next generation of developers.</em>
+  <em>Designing scalable, resilient, and enterprise-grade backend systems with Java & Spring Boot.</em>
 </p>
 
 <p align="center">
-  <em>Also known as: <strong>Ali Raza</strong> · <strong>Ali Raza Iqbal</strong> · <strong>Ali</strong> · <strong>Raza</strong></em>
-</p>
-
-<p align="center">
+  <a href="https://Ali-Raza-SE.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-success?style=for-the-badge" alt="Ali Raza Portfolio Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/ali-raza-software-engineer1">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Raza-blue?style=for-the-badge&logo=linkedin" alt="Ali Raza LinkedIn Profile"/>
-  </a>
-  <a href="https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Ali Raza Developer Portfolio"/>
-  </a>
-  <a href="https://github.com/Ali-Raza-Muhammad-Iqbal">
-    <img src="https://img.shields.io/badge/GitHub-Ali--Raza--Muhammad--Iqbal-black?style=for-the-badge&logo=github" alt="Ali Raza GitHub"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Ali Raza LinkedIn"/>
   </a>
   <a href="mailto:Mr_Ali_Raza@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=yahoo" alt="Email Ali Raza"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/AliRazaMuhammadIqbal1">
-    <img src="https://img.shields.io/badge/Facebook-AliRazaMuhammadIqbal1-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Ali Raza Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/ali_raza_muhammad_iqbal">
-    <img src="https://img.shields.io/badge/Instagram-ali__raza__muhammad__iqbal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ali Raza Instagram"/>
-  </a>
-  <a href="https://x.com/Ali_Raza_Iqbal">
-    <img src="https://img.shields.io/badge/X-@Ali__Raza__Iqbal-000000?style=for-the-badge&logo=x&logoColor=white" alt="Ali Raza on X (Twitter)"/>
-  </a>
-  <a href="https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal">
-    <img src="https://img.shields.io/badge/YouTube-@Ali__Raza__Muhammad__Iqbal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ali Raza YouTube Channel"/>
-  </a>
-  <a href="https://www.tiktok.com/@ali_raza_muhammad_iqbal">
-    <img src="https://img.shields.io/badge/TikTok-@ali__raza__muhammad__iqbal-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Ali Raza TikTok"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=yahoo" alt="Email Ali Raza"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Ali Raza Muhammad Iqbal — Software Engineer, Backend Developer & CS Educator
+## 🌐 My Portfolio Website
 
-I am a driven **Software Engineer**, **Backend Developer**, and **Software Developer** specializing in the design, development, and optimization of highly scalable, resilient server-side applications. I bring deep mastery of **Java**, **Spring Boot**, and **RESTful API Architecture** to every project I build.
+> **👉 [https://Ali-Raza-SE.github.io/portfolio/](https://Ali-Raza-SE.github.io/portfolio/)**
 
-In addition to engineering enterprise software solutions, my background as a **Computer Science Teacher, Tutor, and Educator** underscores a strong technical foundation in **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and **Database Management Systems (DBMS)** — enabling me to deliver both production-grade code and world-class technical mentorship.
+My interactive portfolio showcases:
+- 🚀 **Featured backend projects** (Java + Spring Boot)
+- 🧩 **REST API & microservices architectures** I've built
+- 📊 **Database design case studies** (MySQL schema optimization)
+- 📄 **Full résumé & work experience**
+- 📬 **Contact form & collaboration opportunities**
 
-I go by several names online — **Ali Raza**, **Ali Raza Iqbal**, **Ali**, and **Raza** — so whether you're searching for a Java backend engineer, a Spring Boot developer, or a CS tutor, you've found the right profile.
+**Visit → [Ali-Raza-SE.github.io/portfolio](https://Ali-Raza-SE.github.io/portfolio/)**
 
-**🔎 Keywords:** Ali Raza, Ali Raza Muhammad Iqbal, Ali Raza Iqbal, Software Engineer, Backend Developer, Software Developer, Java Developer, Spring Boot Developer, REST API Developer, Microservices Engineer, MySQL Developer, PHP Developer, Firebase Developer, CS Teacher, CS Tutor, Programming Tutor, Computer Science Lecturer, Systems Architect, Clean Code Advocate, Pakistan Software Engineer, Hire Java Developer, Hire Backend Developer, Remote Backend Engineer, Freelance Java Developer.
+---
+
+## 👨‍💻 About Ali Raza — Software Engineer & Java Backend Developer
+
+I am a driven **Software Engineer** specializing in the design, development, and optimization of highly scalable, resilient server-side applications. I bring deep mastery of **Java**, **Spring Boot**, and **RESTful API Architecture** to every project I build.
+
+In addition to engineering enterprise software solutions, my background as a **Computer Science Lecturer** underscores a strong technical foundation in **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and **Database Management Systems (DBMS)** — enabling me to deliver both production code and technical mentorship.
+
+**🔎 Searching for:** `Ali Raza Software Engineer`, `Java Backend Developer Pakistan`, `Spring Boot Developer`, `REST API Engineer`, `Microservices Developer`, `MySQL Backend Developer`.
 
 ---
 
@@ -155,13 +136,26 @@ I go by several names online — **Ali Raza**, **Ali Raza Iqbal**, **Ali**, and 
 
 | Category | Technologies |
 |---|---|
-| **Backend** | Core Java (OOP, Collections, Streams, Multithreading) • PHP (Native) • RESTful Web Services |
-| **Frameworks** | Spring Boot • Spring Core • Spring MVC • Spring Data JPA • Hibernate • JDBC |
-| **Architecture** | RESTful APIs • Microservices • System Design • Clean Architecture • Client-Server Flow • Design Patterns |
-| **Databases** | MySQL (Schema Design, Complex Queries, Stored Procedures) • Firebase • SQL |
+| **Backend** | Core Java (OOP, Collections, Streams, Multithreading) • PHP (Native) |
+| **Frameworks** | Spring Boot • Spring Core • Spring Data JPA • Hibernate • JDBC |
+| **Architecture** | RESTful APIs • Microservices • System Design • Client-Server Flow |
+| **Databases** | MySQL (Schema Design, Complex Queries, Stored Procedures) • Firebase |
 | **Frontend** | HTML5 • CSS3 • JavaScript (JS) |
-| **Tools & DevOps** | Git • GitHub • Maven • Postman • Swagger • IntelliJ IDEA • Eclipse • Apache Tomcat • Docker (Basics) • Linux (Basics) |
-| **Methodologies** | Agile • Scrum • SDLC • CI/CD |
+
+**Skill badges:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -169,8 +163,7 @@ I go by several names online — **Ali Raza**, **Ali Raza Iqbal**, **Ali**, and 
 
 - **⚡ System Scalability** — Mitigating performance bottlenecks via query optimization, efficient database schema design, and resource-conscious backend logic.
 - **🔄 Full-Lifecycle Engineering** — Driving projects across the complete **Software Development Life Cycle (SDLC)** — from conceptual database modeling to final system deployment.
-- **✨ Clean Code Practitioner** — Adhering strictly to **SOLID** design principles, **Design Patterns**, and robust exception-handling frameworks to deliver clean, maintainable, and highly reusable codebases.
-- **🎓 Technical Mentorship** — Teaching and tutoring Computer Science students in OOP, DSA, DBMS, and backend development — bridging the gap between academic theory and industry practice.
+- **✨ Clean Code Practitioner** — Adhering strictly to **SOLID** design principles and robust exception-handling frameworks to deliver clean, maintainable, and highly reusable codebases.
 
 ---
 
@@ -180,42 +173,50 @@ I go by several names online — **Ali Raza**, **Ali Raza Iqbal**, **Ali**, and 
 - 🔹 Architect **microservices** and scalable backend infrastructure
 - 🔹 Optimize **MySQL** queries, schemas, and stored procedures
 - 🔹 Apply **OOP**, **DSA**, and **System Design** principles to real-world problems
-- 🔹 Mentor upcoming developers as a **Computer Science Teacher & Tutor**
+- 🔹 Mentor upcoming developers as a **Computer Science Lecturer**
 - 🔹 Deliver production-ready code following **SOLID** and **Clean Code** principles
-- 🔹 Build full-stack features with **PHP**, **HTML/CSS**, and **JavaScript**
-- 🔹 Integrate **Firebase** and third-party APIs into backend workflows
+
+---
+
+## 📂 Featured Projects
+
+> 🔗 See all projects with live demos on my portfolio → **[Ali-Raza-SE.github.io/portfolio](https://Ali-Raza-SE.github.io/portfolio/)**
+
+<!-- Replace the placeholders below with your real repos -->
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| **REST API Service** | Production-grade REST API with authentication, pagination & versioning | Java, Spring Boot, MySQL | [Repo](https://github.com/Ali-Raza-SE) |
+| **Microservices Backend** | Distributed backend with service discovery & API gateway | Spring Boot, Spring Cloud | [Repo](https://github.com/Ali-Raza-SE) |
+| **Database Optimization** | MySQL schema redesign improving query speed by 60%+ | MySQL, Stored Procedures | [Repo](https://github.com/Ali-Raza-SE) |
+| **PHP Native App** | Full-stack PHP application with custom MVC architecture | PHP, MySQL, JS | [Repo](https://github.com/Ali-Raza-SE) |
 
 ---
 
 ## 🔗 Connect & Collaborate
 
-If you're looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, mentor junior developers, or collaborate on open-source initiatives — let's connect:
+If you're looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, or collaborate on open-source initiatives — let's connect:
 
-- 💼 **LinkedIn:** [linkedin.com/in/ali-raza-software-engineer1](https://www.linkedin.com/in/ali-raza-software-engineer1)
-- 🌐 **Portfolio:** [Ali-Raza-Muhammad-Iqbal.github.io/portfolio](https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio)
-- 🐙 **GitHub:** [github.com/Ali-Raza-Muhammad-Iqbal](https://github.com/Ali-Raza-Muhammad-Iqbal)
+- 🌐 **Portfolio Website:** [Ali-Raza-SE.github.io/portfolio](https://Ali-Raza-SE.github.io/portfolio/)
+- 💼 **LinkedIn:** [Ali Raza — Software Engineer](https://www.linkedin.com/in/ali-raza-software-engineer1)
+- 🐙 **GitHub:** [@Ali-Raza-SE](https://github.com/Ali-Raza-SE)
 - 📧 **Email:** [Mr_Ali_Raza@yahoo.com](mailto:Mr_Ali_Raza@yahoo.com)
-
-### 🌍 Find Me on Social Media
-
-| Platform | Handle | Link |
-|---|---|---|
-| 📘 Facebook | @AliRazaMuhammadIqbal1 | [facebook.com/AliRazaMuhammadIqbal1](https://www.facebook.com/AliRazaMuhammadIqbal1) |
-| 📸 Instagram | @ali_raza_muhammad_iqbal | [instagram.com/ali_raza_muhammad_iqbal](https://www.instagram.com/ali_raza_muhammad_iqbal) |
-| 🐦 X (Twitter) | @Ali_Raza_Iqbal | [x.com/Ali_Raza_Iqbal](https://x.com/Ali_Raza_Iqbal) |
-| ▶️ YouTube | @Ali_Raza_Muhammad_Iqbal | [youtube.com/@Ali_Raza_Muhammad_Iqbal](https://www.youtube.com/@Ali_Raza_Muhammad_Iqbal) |
-| 🎵 TikTok | @ali_raza_muhammad_iqbal | [tiktok.com/@ali_raza_muhammad_iqbal](https://www.tiktok.com/@ali_raza_muhammad_iqbal) |
-
-> 💡 **Open to:** Full-time backend roles • Freelance projects • Remote contracts • CS tutoring engagements • Open-source collaboration
 
 ---
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency. I don't just write functional code; I build sustainable technical architecture — and I teach others to do the same."</i>
+  <i>"Simplicity is the soul of efficiency. I don't just write functional code; I build sustainable technical architecture."</i>
 </p>
 
-<!-- =====================================================================
+<p align="center">
+  <sub>© 2026 Ali Raza · Software Engineer · Java Backend Developer · Spring Boot Engineer · Pakistan</sub>
+</p>
+
+<!--
+=====================================================================
   END OF README
-  Last Updated: 2026
-  Optimized for Google, Bing, Yahoo, DuckDuckGo, Brave Search
-===================================================================== -->
+  SEO-Optimized for: Google, Bing, Yahoo, DuckDuckGo, Yandex
+  Primary Keywords: Ali Raza Software Engineer, Java Backend Developer,
+                    Spring Boot Developer, REST API Developer, Microservices
+=====================================================================
+-->
